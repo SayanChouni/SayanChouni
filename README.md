@@ -18,14 +18,30 @@
 
 <table>
 <tr>
-<td align="center">
+<td align="center" colspan="2">
 
-### ⚡ AI_CORE.activate()
+### ⚡ AI_CORE.activate() — Neural Dashboard
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhkdjJoNm0yYTdlaWEzNDZtZzFwZnpyN2t1djBiOTk2d2VxNnQ3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="260" alt="ZCR AI Core"/>
-
-<sub>🟣 **ZCR Neural Core** — synthesizing intelligence, automation & code in real time</sub>
-
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhkdjJoNm0yYTdlaWEzNDZtZzFwZnpyN2t1djBiOTk2d2VxNnQ3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="100%" alt="ZCR AI Core"/>
+<sub>🟣 <b>neural_engine</b> — synthesizing intelligence</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3RmYjh4cTQxajZoMG83NGFocXB5bnN1cGE1djZoajJ5OXNmNWY2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pbIavlMZE7TkcVriMM/giphy.gif" width="100%" alt="Automation Core"/>
+<sub>🔵 <b>automation_core</b> — pipelines in motion</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDgxZTZpcGZsbHIzajc4bTVoNGd3bnZqZTdzdDBrMG82cDB6NTJ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGo2HgcJHi4prFK/giphy.gif" width="100%" alt="Cloud Sync"/>
+<sub>🟢 <b>cloud_sync</b> — infrastructure online</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlkdmVlZTUxYWlreHVmNnB6NnNwdmt1OW9hdjFmNGh6aXE2bHdtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" width="100%" alt="API Gateway"/>
+<sub>🟡 <b>api_gateway</b> — data streaming live</sub>
 </td>
 </tr>
 </table>
