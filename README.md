@@ -1,26 +1,30 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:24243e,100:302b63&height=280&section=header&text=SAYAN%20CHOUNI&fontSize=70&fontColor=00F0FF&fontAlignY=38&desc=Founder%20%26%20CEO%20%40%20ZCR%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Builder&descAlignY=58&descSize=20&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:1a1a40,70:24243e,100:302b63&height=300&section=header&text=SAYAN%20CHOUNI&fontSize=68&fontColor=00F0FF&fontAlignY=34&desc=Founder%20%26%20CEO%20%40%20ZCR%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20AI%20Builder&descAlignY=54&descSize=19&animation=fadeIn" width="100%"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="100%" height="2">
 
 <br/>
 
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%3E+booting+ZCR_OS+v2.0...;%3E+initializing+founder_protocol...;%3E+Building+the+Future+Through+Technology;%3E+AI+%2B+Automation+%2B+SaaS+%2B+Cloud+%3D+%E2%88%9E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=%3E+booting+ZCR_OS+v3.0...;%3E+initializing+founder_protocol...;%3E+Building+the+Future+Through+Technology;%3E+AI+%2B+Automation+%2B+SaaS+%2B+Cloud" alt="Typing SVG"/>
 </a>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sayanchouni&style=for-the-badge&color=00F0FF&label=NEURAL+LINK+VISITORS)
-![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&logo=statuswuhu&logoColor=white)
-![Founder](https://img.shields.io/badge/ZCR-FOUNDER%20%26%20CEO-A855F7?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=sayanchouni&style=for-the-badge&color=00F0FF&label=NEURAL+LINK+VISITORS&labelColor=0d1117)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&logoColor=white&labelColor=0d1117)
+![Founder](https://img.shields.io/badge/ZCR-FOUNDER%20%26%20CEO-A855F7?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
 <br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-<br/>
 
 ## 🖥️ `root@zcr:~$` SYSTEM_TERMINAL
 
@@ -42,7 +46,7 @@
 [38;5;51m│[0m   > AI · Automation · SaaS · Cloud Computing · APIs · Open Source  [38;5;51m│[0m
 [38;5;51m│[0m [38;5;46m$[0m system_status                                                   [38;5;51m│[0m
 [38;5;51m│[0m   > UPTIME: 24/7   PING: <1ms   MODE: BUILD_AND_SHIP               [38;5;51m│[0m
-[38;5;51m│[0m   > THREAT_LEVEL: caffeinated   SECURITY: maximum                  [38;5;51m│[0m
+[38;5;51m│[0m   > SECURITY: maximum   THREAT_LEVEL: caffeinated                  [38;5;51m│[0m
 [38;5;51m└─────────────────────────────────────────────────────────────────┘[0m
 ```
 
@@ -59,7 +63,7 @@
 <td width="100%">
 
 ```yaml
-ASSISTANT:     ZCR.AI v2.0
+ASSISTANT:     ZCR.AI v3.0
 DEVELOPER:     Sayan Chouni
 ROLE:          Founder & CEO, ZCR
 CORE_DIRECTIVE: "Build the future through technology"
@@ -254,7 +258,7 @@ that empower founders, developers, and businesses.
 
 </div>
 
-> 💡 **Setup note:** The snake animation above requires the [`platane/snk`](https://github.com/Platane/snk) GitHub Action enabled on the `sayanchouni/sayanchouni` repo to auto-generate `github-contribution-grid-snake-dark.svg` on the `output` branch.
+> 💡 **Setup note:** The snake animation requires the [`platane/snk`](https://github.com/Platane/snk) GitHub Action enabled on the `sayanchouni/sayanchouni` repo to auto-generate `github-contribution-grid-snake-dark.svg` on the `output` branch. Workflow YAML included at the bottom of this file.
 
 <br/>
 
@@ -286,6 +290,40 @@ that empower founders, developers, and businesses.
 
 <br/>
 
-![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=0:302b63,50:24243e,100:0f0c29&height=150&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,40:24243e,70:1a1a40,100:0f0c29&height=160&section=footer" width="100%"/>
 
 </div>
+
+<!--
+═══════════════════════════════════════════════════════════════════
+  OPTIONAL: Snake animation auto-generator
+  Save as .github/workflows/snake.yml in sayanchouni/sayanchouni
+═══════════════════════════════════════════════════════════════════
+
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+═══════════════════════════════════════════════════════════════════
+-->
