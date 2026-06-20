@@ -18,30 +18,14 @@
 
 <table>
 <tr>
-<td align="center" colspan="2">
+<td align="center">
 
-### ⚡ AI_CORE.activate() — Neural Dashboard
+### ⚡ AI_CORE.activate()
 
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhkdjJoNm0yYTdlaWEzNDZtZzFwZnpyN2t1djBiOTk2d2VxNnQ3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="100%" alt="ZCR AI Core"/>
-<sub>🟣 <b>neural_engine</b> — synthesizing intelligence</sub>
-</td>
-<td align="center" width="50%">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3RmYjh4cTQxajZoMG83NGFocXB5bnN1cGE1djZoajJ5OXNmNWY2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pbIavlMZE7TkcVriMM/giphy.gif" width="100%" alt="Automation Core"/>
-<sub>🔵 <b>automation_core</b> — pipelines in motion</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDgxZTZpcGZsbHIzajc4bTVoNGd3bnZqZTdzdDBrMG82cDB6NTJ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGo2HgcJHi4prFK/giphy.gif" width="100%" alt="Cloud Sync"/>
-<sub>🟢 <b>cloud_sync</b> — infrastructure online</sub>
-</td>
-<td align="center" width="50%">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlkdmVlZTUxYWlreHVmNnB6NnNwdmt1OW9hdjFmNGh6aXE2bHdtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" width="100%" alt="API Gateway"/>
-<sub>🟡 <b>api_gateway</b> — data streaming live</sub>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhkdjJoNm0yYTdlaWEzNDZtZzFwZnpyN2t1djBiOTk2d2VxNnQ3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="260" alt="ZCR AI Core"/>
+
+<sub>🟣 **ZCR Neural Core** — synthesizing intelligence in real time</sub>
+
 </td>
 </tr>
 </table>
@@ -191,6 +175,12 @@ that empower founders, developers, and businesses.
 
 <div align="center">
 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3RmYjh4cTQxajZoMG83NGFocXB5bnN1cGE1djZoajJ5OXNmNWY2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pbIavlMZE7TkcVriMM/giphy.gif" width="220" alt="Automation Core"/>
+
+<sub>🔵 **automation_core** — pipelines running in real time</sub>
+
+<br/><br/>
+
 | 🟣 Operation | 🔋 Status | 📡 Description |
 |:---|:---:|:---|
 | **Building ZCR Ecosystem** | `ACTIVE` 🟢 | Architecting the core products & infrastructure powering ZCR |
@@ -235,6 +225,13 @@ that empower founders, developers, and businesses.
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### ☁️ Cloud & DevOps
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDgxZTZpcGZsbHIzajc4bTVoNGd3bnZqZTdzdDBrMG82cDB6NTJ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGo2HgcJHi4prFK/giphy.gif" width="200" alt="Cloud Sync"/>
+
+<sub>🟢 **cloud_sync** — infrastructure online</sub>
+
+<br/><br/>
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -258,6 +255,12 @@ that empower founders, developers, and businesses.
 ## 📊 GITHUB_ANALYTICS.dashboard
 
 <div align="center">
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlkdmVlZTUxYWlreHVmNnB6NnNwdmt1OW9hdjFmNGh6aXE2bHdtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" width="200" alt="API Gateway"/>
+
+<sub>🟡 **api_gateway** — data streaming live</sub>
+
+<br/><br/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sayanchouni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00F0FF&icon_color=A855F7&text_color=c9d1d9&border_color=A855F7"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanchouni&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00F0FF&text_color=c9d1d9&border_color=A855F7"/>
