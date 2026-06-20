@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:1a1a40,70:24243e,100:302b63&height=300&section=header&text=SAYAN%20CHOUNI&fontSize=68&fontColor=00F0FF&fontAlignY=34&desc=Founder%20%26%20CEO%20%40%20ZCR%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20AI%20Builder&descAlignY=54&descSize=19&animation=fadeIn" width="100%"/>
 
-<img src="[https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhkdjJoNm0yYTdlaWEzNDZtZzFwZnpyN2t1djBiOTk2d2VxNnQ3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif)" width="100%" height="2">
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="100%" height="2">
 
 <br/>
 
@@ -13,6 +13,22 @@
 <br/><br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+<table>
+<tr>
+<td align="center">
+
+### ⚡ AI_CORE.activate()
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhkdjJoNm0yYTdlaWEzNDZtZzFwZnpyN2t1djBiOTk2d2VxNnQ3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="260" alt="ZCR AI Core"/>
+
+<sub>🟣 **ZCR Neural Core** — synthesizing intelligence, automation & code in real time</sub>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
