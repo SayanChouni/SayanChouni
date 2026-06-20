@@ -1,143 +1,105 @@
-
-🔥 **What I Do:**
-- 🏗️ Build scalable **web applications** from scratch
-- ⚙️ Create **automation systems** that save time & money
-- 💡 Design **modern UI/UX** experiences
-- 🔐 Develop **secure backends** and APIs
-- 📱 Craft **responsive** and **performant** applications
-- 🚀 Launch **digital products** that matter
-
----
-
-## 💼 Professional Experience
-
-**Founder & CEO @ ZCR**
-- Leading digital transformation initiatives
-- Building innovative software solutions
-- Growing a team of talented developers
-
-**Full Stack Developer**
-- Frontend: React, Vue, Tailwind CSS
-- Backend: Node.js, Python, Express, Django
-- Databases: MongoDB, PostgreSQL, Firebase
-- DevOps: Docker, AWS, Netlify, Vercel
-
----
-
-## 🛠️ Tech Stack
-
 <div align="center">
 
-### 🎨 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+# ⚡ SAYAN CHOUNI
 
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Founder+%26+CEO+of+ZCR;Full+Stack+Developer;AI+%7C+Automation+%7C+Cloud;Building+The+Future+Through+Technology" />
 
-### 💾 Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🚀 Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=ZCR%20ECOSYSTEM&fontSize=50&fontColor=00FFFF&animation=fadeIn" />
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+# 🧠 SYSTEM PROFILE
+
+```yaml
+NAME: Sayan Chouni
+CODENAME: ZCR-Founder
+ROLE: Full Stack Developer
+STATUS: Online
+LOCATION: India
+
+SPECIALIZATION:
+  - Web Applications
+  - AI Systems
+  - Cloud Infrastructure
+  - API Engineering
+  - Automation Solutions
+
+MISSION:
+  "Transform Ideas Into Intelligent Digital Systems"
+
+CURRENT_STATUS:
+  Building Future Technologies...
+```
+
+---
+
+# 🚀 ACTIVE OPERATIONS
+
+```diff
++ Building ZCR Ecosystem
++ Developing Modern SaaS Platforms
++ AI & Automation Research
++ Cloud Infrastructure Engineering
++ Open Source Contributions
+```
+
+---
+
+# ⚙️ TECH MATRIX
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SayanChouni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/SayanChouni)
+![Next JS](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge\&logo=nextdotjs)
+![Node JS](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge\&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge\&logo=mongodb)
+![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge\&logo=firebase)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SayanChouni&theme=tokyonight&hide_border=true)](https://github.com/SayanChouni)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SayanChouni&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/SayanChouni)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
+![Google Cloud](https://img.shields.io/badge/GOOGLE_CLOUD-4285F4?style=for-the-badge\&logo=googlecloud)
+![Supabase](https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge\&logo=supabase)
 
 </div>
 
 ---
 
-## 🏆 Achievements & Trophies
+# 📊 NEURAL ANALYTICS
 
 <div align="center">
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=SayanChouni&theme=tokyonight&no-frame=false&margin-w=4)](https://github.com/SayanChouni)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SayanChouni&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayanChouni&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SayanChouni&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🎓 Skills & Expertise
+# 🏆 ACHIEVEMENT SYSTEM
 
-| Category | Skills |
-|----------|--------|
-| **Languages** | JavaScript, Python, HTML, CSS, SQL |
-| **Frameworks** | React, Vue.js, Node.js, Express, Django |
-| **Databases** | MongoDB, PostgreSQL, Firebase, MySQL |
-| **Tools** | Git, Docker, VS Code, Postman, Webpack |
-| **Cloud** | AWS, Vercel, Netlify, Firebase Hosting |
-| **Specialties** | Full Stack Dev, System Design, DevOps, Automation |
+```txt
+[✓] Founder & CEO @ ZCR
+[✓] Full Stack Developer
+[✓] Product Builder
+[✓] Automation Engineer
+[✓] Cloud Explorer
+[✓] Open Source Contributor
+```
 
 ---
 
-## 🔗 Connect With Me
+# 🌐 NETWORK LINKS
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/SAYAN-CHOUNI)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayan-chouni)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge\&logo=instagram)](https://instagram.com/sayanchounii)
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin.com)
 
----
-
-## 💬 Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 📈 Latest Activity
-
-Currently working on:
-- 🔨 Building innovative digital products at **ZCR**
-- 📚 Contributing to open-source projects
-- 🎯 Learning advanced system design patterns
-- 🚀 Exploring new technologies & frameworks
-
----
-
-<div align="center">
-
-### Thanks for visiting! Feel free to explore my projects & repositories 👇
-
-[![View My Projects](https://img.shields.io/badge/View%20My%20Projects-%23000000?style=for-the-badge&logo=github)](https://github.com/SayanChouni?tab=repositories)
-
-**Let's build something amazing together!** 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=SayanChouni&style=flat-square&color=blue)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge\&logo=gmail)](mailto:sayanchouni2024@gmail.com)
 
 </div>
 
@@ -145,6 +107,10 @@ Currently working on:
 
 <div align="center">
 
-⭐ If you find my work useful, please consider giving it a star! ⭐
+## ⚡ CODE • CREATE • INNOVATE • DOMINATE ⚡
+
+### "THE FUTURE IS BUILT BY THOSE WHO CREATE IT"
+
+<img src="https://komarev.com/ghpvc/?username=SayanChouni&label=PROFILE+VISITORS&color=00FFFF&style=for-the-badge"/>
 
 </div>
